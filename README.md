@@ -1,0 +1,1 @@
+# barcode_inventory_system_offline_v8
